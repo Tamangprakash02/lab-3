@@ -1,11 +1,18 @@
-Random random = new Random();
-int current = random.Next(1, 11);
+int Superman = 10;
+int Batman = 10;
+
+Random dice = new Random();
 
 do
 {
-    current = random.Next(1, 11);
+    int roll = dice.Next(1, 11);
+    Batman -= roll;
+    Console.WriteLine($"Batman was damaged and lost {roll} health and now has {Batman} health.");    if (Batman <= 0) continue;
 
-    if (current >= 8) continue;
+    roll = dice.Next(1, 11);
+    Superman -= roll;
+    Console.WriteLine($"Superman was damaged and lost {roll} health and now has {Superman} health.");
 
-    Console.WriteLine(current);
-} while (current != 7);
+} while (Superman > 0 && Batman > 0);
+
+Console.WriteLine(Superman > Batman ? "Superman wins!" : "Batman wins!");
