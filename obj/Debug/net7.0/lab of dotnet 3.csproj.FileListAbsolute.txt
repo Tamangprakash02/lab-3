@@ -1,0 +1,15 @@
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.csproj.AssemblyReference.cache
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.AssemblyInfoInputs.cache
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.AssemblyInfo.cs
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.csproj.CoreCompileInputs.cache
+/Users/prakashtamang/Desktop/lab of dotnet 3/bin/Debug/net7.0/lab of dotnet 3
+/Users/prakashtamang/Desktop/lab of dotnet 3/bin/Debug/net7.0/lab of dotnet 3.deps.json
+/Users/prakashtamang/Desktop/lab of dotnet 3/bin/Debug/net7.0/lab of dotnet 3.runtimeconfig.json
+/Users/prakashtamang/Desktop/lab of dotnet 3/bin/Debug/net7.0/lab of dotnet 3.dll
+/Users/prakashtamang/Desktop/lab of dotnet 3/bin/Debug/net7.0/lab of dotnet 3.pdb
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.dll
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/refint/lab of dotnet 3.dll
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.pdb
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/lab of dotnet 3.genruntimeconfig.cache
+/Users/prakashtamang/Desktop/lab of dotnet 3/obj/Debug/net7.0/ref/lab of dotnet 3.dll
